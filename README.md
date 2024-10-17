@@ -26,8 +26,8 @@ Use Closing Operation
  
 ## Program:
 ```
-Developed by: Adchayakiruthika M S
-Reg.No: 212223230005
+Developed by: SANIYA G
+Reg.No: 212223240147
 ```
 
 ```python
